@@ -4,4 +4,5 @@
 1. open terminal
 2. cd backend
 3. npm install
-4. npm run dev
+4. set up env
+5. npm run dev
